@@ -738,6 +738,18 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+### Serverless Devs
+
+ *"Serverless Devs is an open source and open serverless developer platform dedicated to providing developers with a powerful tool chain system. Through this platform, developers can not only experience multi cloud serverless products with one click and rapidly deploy serverless projects, but also manage projects in the whole life cycle of serverless applications, and combine serverless devs with other tools / platforms very simply and quickly to further improve the efficiency of R & D, operation and maintenance."* - [Serverless Devs](https://serverless-devs.com/)
+
+ -   **Project Repository:** https://github.com/Serverless-Devs/Serverless-Devs
+ -   **Contributor Guide:** [Development Guide](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/CONTRIBUTING.md)
+ -   **Chat:** Slack: [Serverless Devs](https://serverless-devs.slack.com/)
+ -   **Developer List/Forum:** [Serverless Devs Discussions](https://github.com/Serverless-Devs/Serverless-Devs/discussions)
+ -   **License:** [Apache 2.0](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+---
+
 ### sealer
 
  *"sealer is a tool to seal all your application's dependencies and kubernetes into one single CloudImage! With sealer, you can build, deliver and run self-customized clusters in one command."* - [Sealer](https://sealer.cool/)
